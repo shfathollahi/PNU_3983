@@ -1,0 +1,688 @@
+1
+
+00:00:00,09 --> 00:00:02,04
+- You have a new project
+
+
+
+2
+
+00:00:02,04 --> 00:00:05,06
+
+and have decided agile is the best fit for it.
+
+
+
+3
+
+00:00:05,06 --> 00:00:08,08
+
+Now you have one more decision to make.
+
+
+
+4
+
+00:00:08,08 --> 00:00:12,07
+
+Which agile framework will work best for your project?
+
+
+
+5
+
+00:00:12,07 --> 00:00:15,09
+
+Remember, agile is a family of frameworks.
+
+
+
+6
+
+00:00:15,09 --> 00:00:18,06
+
+Each one of those frameworks lends itself
+
+
+
+7
+
+00:00:18,06 --> 00:00:21,02
+
+to specific situations.
+
+
+
+8
+
+00:00:21,02 --> 00:00:24,04
+
+The most common of the agile frameworks are scrum
+
+
+
+9
+
+00:00:24,04 --> 00:00:28,09
+
+extreme programming, XP for short, and kanban.
+
+
+
+10
+
+00:00:28,09 --> 00:00:32,08
+
+Remember, all agile frameworks require close interaction
+
+
+
+11
+
+00:00:32,08 --> 00:00:35,01
+
+between the customer and team.
+
+
+
+12
+
+00:00:35,01 --> 00:00:37,05
+
+They rely on collaboration.
+
+
+
+13
+
+00:00:37,05 --> 00:00:41,05
+
+They're geared toward responding to change when it arises.
+
+
+
+14
+
+00:00:41,05 --> 00:00:44,05
+
+So let's explore each of these to see
+
+
+
+15
+
+00:00:44,05 --> 00:00:47,07
+
+which might be best suited to your project.
+
+
+
+16
+
+00:00:47,07 --> 00:00:49,04
+
+Let's start with scrum.
+
+
+
+17
+
+00:00:49,04 --> 00:00:52,09
+
+Scrum is the most widely adopted of the frameworks.
+
+
+
+18
+
+00:00:52,09 --> 00:00:55,07
+
+Scrum is generally ideal for projects
+
+
+
+19
+
+00:00:55,07 --> 00:00:57,03
+
+where the customer representative
+
+
+
+20
+
+00:00:57,03 --> 00:01:00,09
+
+or product owner can be embedded in the team.
+
+
+
+21
+
+00:01:00,09 --> 00:01:04,09
+
+Scrum teams have fewer than 10 dedicated resources.
+
+
+
+22
+
+00:01:04,09 --> 00:01:07,09
+
+Due to its quick two to four-week cycles,
+
+
+
+23
+
+00:01:07,09 --> 00:01:11,03
+
+it does a great job at controlling scope creep
+
+
+
+24
+
+00:01:11,03 --> 00:01:13,07
+
+because within that time box it's hard
+
+
+
+25
+
+00:01:13,07 --> 00:01:16,00
+
+to add unneeded features.
+
+
+
+26
+
+00:01:16,00 --> 00:01:19,08
+
+It's also very good at delivering high-quality code
+
+
+
+27
+
+00:01:19,08 --> 00:01:22,09
+
+since all the work is tested and accepted
+
+
+
+28
+
+00:01:22,09 --> 00:01:24,09
+
+when the sprint ends.
+
+
+
+29
+
+00:01:24,09 --> 00:01:28,03
+
+At the same time, it does have some shortcomings.
+
+
+
+30
+
+00:01:28,03 --> 00:01:31,02
+
+Since scope is evolutionary in this framework,
+
+
+
+31
+
+00:01:31,02 --> 00:01:33,07
+
+without a strong product owner,
+
+
+
+32
+
+00:01:33,07 --> 00:01:36,01
+
+it's possible for the team to perform well,
+
+
+
+33
+
+00:01:36,01 --> 00:01:40,00
+
+but not deliver the most valuable features.
+
+
+
+34
+
+00:01:40,00 --> 00:01:43,01
+
+Further, you'll need an experienced scrum master
+
+
+
+35
+
+00:01:43,01 --> 00:01:45,05
+
+to keep the team on track.
+
+
+
+36
+
+00:01:45,05 --> 00:01:48,03
+
+Scrum is best suited to new development projects
+
+
+
+37
+
+00:01:48,03 --> 00:01:51,06
+
+or large enhancements to existing products.
+
+
+
+38
+
+00:01:51,06 --> 00:01:53,07
+
+It will simplify risk management
+
+
+
+39
+
+00:01:53,07 --> 00:01:57,04
+
+and address the potential scope creep for the project.
+
+
+
+40
+
+00:01:57,04 --> 00:02:00,05
+
+Next, let's talk about XP.
+
+
+
+41
+
+00:02:00,05 --> 00:02:03,03
+
+XP also requires a high degree
+
+
+
+42
+
+00:02:03,03 --> 00:02:05,02
+
+of involvement from your customer.
+
+
+
+43
+
+00:02:05,02 --> 00:02:06,06
+
+In this framework,
+
+
+
+44
+
+00:02:06,06 --> 00:02:09,03
+
+iterations tend to be shorter than with scrum,
+
+
+
+45
+
+00:02:09,03 --> 00:02:13,00
+
+coming in at a speedy one to three weeks.
+
+
+
+46
+
+00:02:13,00 --> 00:02:15,09
+
+The team structure is very light in XP
+
+
+
+47
+
+00:02:15,09 --> 00:02:20,01
+
+since the team members are only developers and the customer.
+
+
+
+48
+
+00:02:20,01 --> 00:02:23,07
+
+The benefit of the fast iteration in XP is
+
+
+
+49
+
+00:02:23,07 --> 00:02:25,05
+
+that the team can make it through areas
+
+
+
+50
+
+00:02:25,05 --> 00:02:29,02
+
+of high uncertainty or risk very quickly,
+
+
+
+51
+
+00:02:29,02 --> 00:02:32,03
+
+thus better enabling design.
+
+
+
+52
+
+00:02:32,03 --> 00:02:36,06
+
+On the downside, this requires a high level
+
+
+
+53
+
+00:02:36,06 --> 00:02:38,09
+
+of discipline from team members.
+
+
+
+54
+
+00:02:38,09 --> 00:02:43,08
+
+Also, there isn't a lot of time for documentation in XP.
+
+
+
+55
+
+00:02:43,08 --> 00:02:45,07
+
+Finally, you're better off
+
+
+
+56
+
+00:02:45,07 --> 00:02:48,09
+
+with the very experienced developers in this framework.
+
+
+
+57
+
+00:02:48,09 --> 00:02:51,00
+
+You'll need developers that are experienced
+
+
+
+58
+
+00:02:51,00 --> 00:02:52,02
+
+with their technology
+
+
+
+59
+
+00:02:52,02 --> 00:02:55,02
+
+and have excellent communication skills.
+
+
+
+60
+
+00:02:55,02 --> 00:02:58,05
+
+XP is best suited to new development projects
+
+
+
+61
+
+00:02:58,05 --> 00:03:00,07
+
+where there are high levels of uncertainty
+
+
+
+62
+
+00:03:00,07 --> 00:03:03,07
+
+and a need to learn quickly.
+
+
+
+63
+
+00:03:03,07 --> 00:03:07,00
+
+Finally, let's talk about kanban.
+
+
+
+64
+
+00:03:07,00 --> 00:03:11,02
+
+Kanban is best for small, dedicated teams of people.
+
+
+
+65
+
+00:03:11,02 --> 00:03:13,09
+
+Its focus is on eliminating waste
+
+
+
+66
+
+00:03:13,09 --> 00:03:18,00
+
+in the development process and increasing delivery rates.
+
+
+
+67
+
+00:03:18,00 --> 00:03:20,06
+
+Based on lean manufacturing principles,
+
+
+
+68
+
+00:03:20,06 --> 00:03:24,05
+
+the focus of this method is continuous delivery.
+
+
+
+69
+
+00:03:24,05 --> 00:03:27,09
+
+There are no sprints or iterations in kanban.
+
+
+
+70
+
+00:03:27,09 --> 00:03:29,02
+
+There's a backlog of work,
+
+
+
+71
+
+00:03:29,02 --> 00:03:31,08
+
+and the team's focus is working through the backlog
+
+
+
+72
+
+00:03:31,08 --> 00:03:34,04
+
+as quickly as possible.
+
+
+
+73
+
+00:03:34,04 --> 00:03:36,07
+
+Shortcomings for this method
+
+
+
+74
+
+00:03:36,07 --> 00:03:40,01
+
+include the potential for lack of documentation.
+
+
+
+75
+
+00:03:40,01 --> 00:03:44,02
+
+Also in this method, it's best to have a team of developers
+
+
+
+76
+
+00:03:44,02 --> 00:03:47,09
+
+that can complete work in any area of the product.
+
+
+
+77
+
+00:03:47,09 --> 00:03:49,07
+
+This will reduce waste times
+
+
+
+78
+
+00:03:49,07 --> 00:03:52,06
+
+and handoffs that can cause delays.
+
+
+
+79
+
+00:03:52,06 --> 00:03:56,03
+
+In most cases, kanban is best suited to projects
+
+
+
+80
+
+00:03:56,03 --> 00:04:00,04
+
+that are focused on existing product enhancement or support,
+
+
+
+81
+
+00:04:00,04 --> 00:04:02,09
+
+rather than new product build.
+
+
+
+82
+
+00:04:02,09 --> 00:04:06,01
+
+As you can tell, simply deciding between waterfall
+
+
+
+83
+
+00:04:06,01 --> 00:04:08,00
+
+and agile isn't enough.
+
+
+
+84
+
+00:04:08,00 --> 00:04:11,09
+
+You also need to choose which agile method is best.
+
+
+
+85
+
+00:04:11,09 --> 00:04:14,07
+
+When you keep these pros and cons in mind,
+
+
+
+86
+
+00:04:14,07 --> 00:04:17,07
+
+you'll be sure to make the right decision.
+
+
+
+
